@@ -1,3 +1,3 @@
-Simple "Hello, world!" addon for Taist.
+Simple "Hello, world!" addon.
 
-Launch instructions are in [Taist docs](http://docs.tai.st/quickstart/hello_world.html)
+Use it with instructions from [Taist docs](http://docs.tai.st/quickstart/hello_world.html)

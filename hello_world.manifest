@@ -1,0 +1,10 @@
+{
+  "id": "taist-hello-world",
+  "js": "hello_world.js",
+  "css": "hello_world.css",
+  "title": "Hello Github",
+  "siteName": "Github",
+  "siteRegexp": "github.com",
+  "shortDescription": "Taist 'Hello World' sample",
+  "description": "hello_world.md"
+}
